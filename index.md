@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to my Github repository: chloerma
+
+Hello, my name is Chloe and here is some of my code that I have been working on. Enjoy!
+
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
