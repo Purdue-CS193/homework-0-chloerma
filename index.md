@@ -3,6 +3,15 @@
 Hello, my name is Chloe and here is some of my code that I have been working on. Enjoy!
 
 
+# Chloe Ma's First CS193 Homework
+- CS193 is led entirely by TA's, providing a more relaxed environment to study.
+- The TA's are upperclassmen who have been in our shoes and thus, understand our struggles.
+- The main motive of the course is to learn about tools that help us as coders, to improve our skills.
+
+
+
+
+
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
